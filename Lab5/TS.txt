@@ -1,0 +1,7 @@
+0 declare
+1 start
+2 a
+3 b
+4 c
+5 print
+6 elif
